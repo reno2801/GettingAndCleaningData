@@ -1,0 +1,87 @@
+Variables in Average for Mean and Std measurements.
+
+"activity": 1 of 6 activities performed by a subject in the experiment.
+		
+		Activity values:
+			-Walking
+			-Walkind Upstairs
+			-Walkin Downstairs
+			-Standing
+			-Sitting
+			-Lying                 
+
+"subject": A number indicating the subject who performed each activity in the experiment. The values are from 1 to 30 which is equal to the number of subjects for the experiment.
+   
+Time measurements -
+
+"timebodyaccmeanx": Average mean time for body accelerometer in axis X.         
+"tbodyaccmeany": Average mean time for body accelerometer in axis Y.            
+"tbodyaccmeanz": Average mean time for body accelerometer in axis Z.           
+"tbodyaccstdx": Average std for body accelerometer in axis X.             
+"tbodyaccstdy": Average std for body accelerometer in axis Y.             
+"tbodyaccstdz": Average std for body accelerometer in axis Z.            
+"tgravityaccmeanx": Average mean time for gravity accelerometer in axis X.          
+"tgravityaccmeany": Average mean time for gravity accelerometer in axis Y.         
+"tgravityaccmeanz": Average mean time for gravity accelerometer in axis Z.        
+"tgravityaccstdx": Average std for gravity accelerometer in axis X.          
+"tgravityaccstdy": Average std for gravity accelerometer in axis Y.          
+"tgravityaccstdz": Average std for gravity accelerometer in axis Z.         
+"tbodyaccjerkmeanx": Average mean time for body accelerometer jerk in axis X.        
+"tbodyaccjerkmeany": Average mean time for body accelerometer jerk in axis Y.        
+"tbodyaccjerkmeanz": Average mean time for body accelerometer jerk in axis Z.       
+"tbodyaccjerkstdx": Average std time for body accelerometer jerk in axis X.         
+"tbodyaccjerkstdy": Average std time for body accelerometer jerk in axis Y.         
+"tbodyaccjerkstdz": Average std time for body accelerometer jerk in axis Z.        
+"tbodygyromeanx": Average mean time for body gyro in axis X.            
+"tbodygyromeany": Average mean time for body gyro in axis Y.           
+"tbodygyromeanz": Average mean time for body gyro in axis Z.          
+"tbodygyrostdx": Average std time for body gyro in axis X.            
+"tbodygyrostdy": Average std time for body gyro in axis Y.             
+"tbodygyrostdz": Average std time for body gyro in axis Z.            
+"tbodygyrojerkmeanx": Average mean time for body gyro jerk in axis X.       
+"tbodygyrojerkmeany": Average mean time for body gyro jerk in axis Y.       
+"tbodygyrojerkmeanz": Average mean time for body gyro jerk in axis Z.      
+"tbodygyrojerkstdx": Average std time for body gyro jerk in axis X.        
+"tbodygyrojerkstdy": Average std time for body gyro jerk in axis Y.        
+"tbodygyrojerkstdz": Average std time for body gyro jerk in axis Z.       
+"tbodyaccmagmean": Average mean time for body acc mag.          
+"tbodyaccmagstd": Average std for body acc mag.            
+"tgravityaccmagmean": Average mean time for gravity acc mag.     
+"tgravityaccmagstd": Average std for gravity body acc mag.        
+"tbodyaccjerkmagmean": Average mean time for body acc jerk mag.      
+"tbodyaccjerkmagstd": Average std for body acc jerk mag.      
+"tbodygyromagmean": Average for mean time for body gyro mag.         
+"tbodygyromagstd": Average for std for body gyro mag.          
+"tbodygyrojerkmagmean": Average for mean time for body gyro jerk mag.    
+"tbodygyrojerkmagstd": Average for std for body gyro jerk mag.
+
+Frequency measurements -      
+
+"fbodyaccmeanx": Average mean frequency for body accelerometer in axis X.             
+"fbodyaccmeany": Average mean frequency for body accelerometer in axis Y.           
+"fbodyaccmeanz": Average mean frequency for body accelerometer in axis Z.            
+"fbodyaccstdx": Average std for body accelerometer in axis X.             
+"fbodyaccstdy": Average std for body accelerometer in axis Y.            
+"fbodyaccstdz": Average std for body accelerometer in axis Z.             
+"fbodyaccjerkmeanx": Average mean frequency for body accelerometer jerk in axis X.         
+"fbodyaccjerkmeany": Average mean frequency for body accelerometer jerk in axis Y.       
+"fbodyaccjerkmeanz": Average mean frequency for body accelerometer jerk in axis Z.        
+"fbodyaccjerkstdx": Average std for body accelerometer jerk in axis X.         
+"fbodyaccjerkstdy": Average std for body accelerometer jerk in axis Y.        
+"fbodyaccjerkstdz": Average std for body accelerometer jerk in axis Z.         
+"fbodygyromeanx": Average mean frequency for body gyroscope in axis X.           
+"fbodygyromeany": Average mean frequency for body gyroscope in axis Y.          
+"fbodygyromeanz": Average mean frequency for body gyroscope in axis Z.           
+"fbodygyrostdx": Average std for body gyroscope in axis X.            
+"fbodygyrostdy": Average std for body gyroscope in axis Y.           
+"fbodygyrostdz": Average std for body gyroscope in axis Z.            
+"fbodyaccmagmean": Average mean frequency for body acc mag.          
+"fbodyaccmagstd": Average std for body acc mag.          
+"fbodybodyaccjerkmagmean": Average mean frequency for body acc jerk mag.  
+"fbodybodyaccjerkmagstd": Average std for body acc jerk mag.   
+"fbodybodygyromagmean": Average mean frequency for body gyro mag.    
+"fbodybodygyromagstd": Average std for body gyro mag.      
+"fbodybodygyrojerkmagmean": Average mean frequency for body gyro jerk mag. 
+"fbodybodygyrojerkmagstd": Average std for body gyro jerk mag. 
+              
+
